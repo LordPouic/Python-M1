@@ -23,8 +23,6 @@
 
 ```
 
-```
-
 3 - Ecrire un programme ayant une variable R correspondant au rayon d’un cercle, donner une valeur à R et calculer le périmètre du cercle de rayon R
 
 ```
