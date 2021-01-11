@@ -1,0 +1,39 @@
+
+1 - Ecrire un programme ayant une variable C, donner une valeur à C, calculer et afficher son carré
+
+```
+
+```
+
+2 - Ecrire un programme ayant deux variable A et B, donner des valeurs à A et B puis tenter de trouver quatre moyens d’intervertir les deux valeurs contenues dans A et B
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+```
+
+3 - Ecrire un programme ayant une variable R correspondant au rayon d’un cercle, donner une valeur à R et calculer le périmètre du cercle de rayon R
+
+```
+
+```
+
+
+4 - Ecrire un programme ayant une variable S contenant des secondes. Afficher le nombre d'heures et de minutes correspondantes.
+
+```
+
+```
