@@ -24,6 +24,13 @@ Pour cela il est possible de relancer jusqu'à 3 fois certains dès si leurs val
 ```
 
 5 - Créer une fonction trouvant le PGCD d'un nombre
+
+```
+
+```
+
+6 - Créer une simulation de combat entre un joueur et un monstre, le joueur possède des vies et le monstre aussi, le combat se déroule en tour par tour, à chaque fois on propose au joueur plusieurs attaques différentes infligenat plus ou moins de dégat et en retour le monstre contre attaque. La fonction renvoie si oui ou non le combat a été gagné par le joueur.
+
 ```
 
 ```
