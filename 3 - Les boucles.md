@@ -102,13 +102,47 @@ print(FibCurrent)
 7 - Ecrire un programme détectant les nombres de Armstrong compris entre 0 et 999.
 
 ```
-
+i = 0
+while i < 1000:
+  U = i%10
+  D = (i//10)%10
+  C = i//100
+  if U**3 + D**3 + C**3 == i:
+    print(i)
+  i+=1
 ```
 
 8 - Ecrire un algorithme prenant un nombre entier donné par l'utilisateur et qui l'affiche à l'envers (12345 devient 54321)
 
 ```
+number = 100000100
+reverse_number = ""
+while number > 0:
+  unit = number%10 
+  number = number//10 
+  reverse_number += str(unit)
+reverse_number = int(reverse_number)
+print(reverse_number)
+```
 
+```
+number = str(10000000)
+lengthNumber = len(number)-1
+reverseNumber = ""
+while lengthNumber >= 0:
+  reverseNumber += number[lengthNumber]
+  lengthNumber -= 1
+print(reverseNumber)
+```
+
+```
+number = 123456789
+reversed = 0
+while(number!=0):
+  unit=number%10 
+  reversed = reversed*10 + unit 
+  number=number//10 
+print(reversed)
 ```
 
 9 - Trouver un moyen d'écrire un programme prenant un chiffre et affichant une figure comme celle ci (pour un chiffre entré de 9) :<br>
@@ -124,6 +158,10 @@ print(FibCurrent)
 9<br>
 
 ```
-
+limite = 9
+i = 0
+while i <= limite:
+  print(str(i) * (limite-i+1))
+  i+=1
 ```
 
