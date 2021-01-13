@@ -45,3 +45,5 @@
 ```
 
 ```
+
+9 - Créer une fonction prenant en paramètre un string représentant un calcul (exemple : "2x3+4") et essayer de trouver une solution pour résoudre ce calcul.
