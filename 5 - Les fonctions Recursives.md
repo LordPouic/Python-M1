@@ -18,6 +18,19 @@
 
 
 4 - Refaire l'exercice sur la suite de fibonacci via une fonction récursive
+
+```
+
+```
+
+5 - Refaire l'exercice sur le calcul du pgcs via une fonction recursive
+
+```
+
+```
+
+6 - Créer une fonction récursive permettant de retourner une chaine de charactères ("coucou" devient "oucouc")
+
 ```
 
 ```
