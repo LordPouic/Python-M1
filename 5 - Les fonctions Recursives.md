@@ -23,7 +23,7 @@
 
 ```
 
-5 - Refaire l'exercice sur le calcul du pgcs via une fonction recursive
+5 - Refaire l'exercice sur le calcul du pgcd via une fonction recursive
 
 ```
 
