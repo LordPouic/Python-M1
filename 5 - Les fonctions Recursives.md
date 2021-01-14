@@ -29,7 +29,7 @@
 
 ```
 
-6 - Créer une fonction récursive permettant de retourner une chaine de charactères ("coucou" devient "oucouc")
+6 - Créer une fonction récursive permettant de retourner une chaine de charactères ("coucou" devient "uocuoc")
 
 ```
 
