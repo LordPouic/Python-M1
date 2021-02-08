@@ -61,5 +61,21 @@ def rec_pgcd(a,b):
 6 - Créer une fonction récursive permettant de retourner une chaine de charactères ("coucou" devient "uocuoc")
 
 ```
+txt = "coucou" #-> uocuoc
 
+def reverse_string (txt) :
+  if len(txt) > 0:
+    return txt[-1] + reverse_string(txt[:-1])
+  else:
+    return ""
+
+print(reverse_string("coucou"))
+
+#"u" + reverse("couco")
+#"u" + "o" + reverse("couc")
+#"u" + "o" + "c" + reverse("cou")
+#"u" + "o" + "c" + "u" + reverse("co")
+#"u" + "o" + "c" + "u" + "o" + reverse("c")
+#"u" + "o" + "c" + "u" + "o" + "c" + reverse("")
+#"u" + "o" + "c" + "u" + "o" + "c" + ""
 ```
